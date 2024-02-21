@@ -1,5 +1,5 @@
 {
-  "name": "kambo/llama-cpp-langchain-adapter",
+  "name": "akramzerarka/llama-cpp-langchain-adapter",
   "description": "llama-cpp adapter for PHP lang chain",
   "keywords": ["llama.cpp", "langchain"],
   "license": "MIT",
@@ -8,6 +8,11 @@
       "name": "Bohuslav Simek",
       "email": "bohuslav@simek.si",
       "role": "Developer"
+    },
+    {
+        "name": "Akram Zerarka",
+        "email": "akram.zerarka@gmail.com",
+        "role": "Developer"
     }
   ],
   "require": {
